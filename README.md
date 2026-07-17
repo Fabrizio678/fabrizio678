@@ -19,6 +19,8 @@ I use GitHub to share projects, explore new technologies, and document my learni
 
 ## 🛠️ Tech Stack
 
+<img align="right" width="220" src="https://cdn.pixabay.com/animation/2025/10/02/19/22/19-22-28-195_512.gif" alt="bat gif" />
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -35,6 +37,8 @@ I use GitHub to share projects, explore new technologies, and document my learni
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br clear="both" />
 
 ---
 
