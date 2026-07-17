@@ -1,21 +1,13 @@
-# Hi, I'm Leonardo Carrion 👋
-
-### Economic Engineering Student
-
-Building data-driven solutions through **Data Science**, **Data Engineering**, **Data Analytics**, and **Economics**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-carrion-5b4ab8127)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/leonardocarr)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leonardofabriziocarrion)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CarrionFabrizio)
-
----
-
-## 🚀 About Me
+# Hi, I'm Leonardo 👋
 
 I'm an Economic Engineering student passionate about data and analytics.
 
 I use GitHub to share projects, explore new technologies, and document my learning journey in Data Science, Data Engineering, and Economics.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-carrion-5b4ab8127)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leonardofabriziocarrion)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/leonardocarr)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CarrionFabrizio)
 
 ## 🛠️ Tech Stack
 
@@ -39,18 +31,3 @@ I use GitHub to share projects, explore new technologies, and document my learni
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br clear="both" />
-
----
-
-## 🌱 Currently Learning
-
-- Cloud Computing
-- Apache Spark
-- Linux
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" width="420" src="https://github-readme-stats-fast.vercel.app/api?username=Fabrizio678&show_icons=true&hide_border=true&rank_icon=github&card_width=420" />
-  <img height="180" width="420" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fabrizio678&layout=compact&hide_border=true&langs_count=6&card_width=420" />
-</p>
